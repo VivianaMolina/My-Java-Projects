@@ -26,6 +26,7 @@ This Java console application allows users to search for one or more movies usin
 
 ### Compile the Program
 
+```bash
 javac -cp ".;lib/gson-2.13.1.jar" -d out src/*.java
 
 java -cp ".;lib/gson-2.13.1.jar;out" Main
@@ -37,6 +38,8 @@ Enter movie name (or 'exit' to finish): Inception
 Enter movie name (or 'exit' to finish): Interstellar
 Enter movie name (or 'exit' to finish): exit
 📄 All movie details saved to movies.json!
+
+```json
 
 ## Contents of movies.json (example):
 
@@ -59,3 +62,4 @@ Enter movie name (or 'exit' to finish): exit
   }
   ...
 ]
+```

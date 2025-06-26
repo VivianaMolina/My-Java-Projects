@@ -19,8 +19,10 @@ A Java console application that connects to the Star Wars API (SWAPI) to allow u
 - Make sure required libraries are included in your project (e.g., gsonxxxx.jar)
 - Compile and run the main class
 
+```bash
 javac -cp ".;lib/gson-2.13.1.jar" -d out src/Film.java src/FilmQuery.java
 java -cp ".;lib/gson-2.13.1.jar;out" FilmQuery
+```
 
 ## Example
 Type the Film number you want to inquire
