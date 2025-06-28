@@ -56,7 +56,7 @@ GET https://api.exchangerate-api.com/v4/latest/USD
 
 
 ## Example of use
-
+```json
 Choose a valid option: 2 
 Enter source currency: USD
 Enter target currency: EUR
@@ -64,7 +64,7 @@ Enter amount: 10
 
 10,00 USD = 8,54 EUR
 Rate date: Sat, 28 Jun 2025 00:00:01 +0000
-
+```
 ## Json file generated
 ```json
 [
