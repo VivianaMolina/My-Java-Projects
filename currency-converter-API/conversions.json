@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-06-28 00:01:36",
+    "amount": 1000.0,
+    "fromCurrency": "CLP",
+    "toCurrency": "USD",
+    "result": 1.0717202707208273
+  },
+  {
+    "timestamp": "2025-06-28 00:01:59",
+    "amount": 4000.0,
+    "fromCurrency": "CLP",
+    "toCurrency": "EUR",
+    "result": 3.6614251328906344
+  },
+  {
+    "timestamp": "2025-06-28 00:02:29",
+    "amount": 40000.0,
+    "fromCurrency": "CLP",
+    "toCurrency": "CAD",
+    "result": 58.62309880842925
+  },
+  {
+    "timestamp": "2025-06-28 00:11:16",
+    "amount": 10.0,
+    "fromCurrency": "USD",
+    "toCurrency": "EUR",
+    "result": 8.541
+  }
+]
