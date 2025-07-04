@@ -56,7 +56,7 @@ GET https://api.exchangerate-api.com/v4/latest/USD
 
 
 ## Example of use
-```json
+```bash
 Choose a valid option: 2 
 Enter source currency: USD
 Enter target currency: EUR
